@@ -184,7 +184,7 @@ h2 span { color: var(--accent); }
 .contact-links a:nth-child(2):hover { color: var(--celeste); }
 .contact-links a:nth-child(3):hover { color: var(--lima); }
 .contact.section h2 span { color: var(--lima); }
-.contact-links span { font-size: 9px; color: var(--muted); }
+.contact-links span.contact-label { font-size: 9px; color: var(--muted); }
 
 .site-footer { background: var(--raised); color: var(--ink); border-top: 1px solid var(--line); padding: 40px 5vw; display: grid; gap: 28px; }
 .site-footer > div { max-width: 430px; }
